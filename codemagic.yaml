@@ -3,7 +3,7 @@ workflows:
     name: Android App Build
     # استخدام الرابط الظاهر في الصورة github.com/Zmmoly/Bh
     repository:
-      url: https://github.com/Zmmoly/Bh
+      url: https://github.com/Zmmoly/Et
       branch: master
     instance_type: mac_mini_m1
     environment:
